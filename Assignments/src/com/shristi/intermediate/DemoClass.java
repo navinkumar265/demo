@@ -26,7 +26,7 @@ public class DemoClass {
 //		{
 //		System.out.println("1.withdraw\n2.deposit\n3.balance\n4.exit");
 //		int s=sc.nextInt();
-//		switch(s) 
+//		switch(s)
 //		{
 //		case 1:
 //			System.out.println("amount");
@@ -56,7 +56,7 @@ public class DemoClass {
 		
 		//3.
 		int arr[]=new int[3];
-		System.out.println("name");
+		System.out.println("name of the student");
 		String name=sc.nextLine();
 		System.out.println("id");
 		int id=sc.nextInt();

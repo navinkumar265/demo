@@ -5,9 +5,9 @@ public class Bank {
 	
 	double balance;
 	
-	Bank(double b)
+	Bank(double balance)
 	{
-		balance=b;
+		this.balance=balance;
 	}
 	
 	public void withdraw(int w)
